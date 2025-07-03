@@ -18,10 +18,10 @@ How to Run
 > Select Video Stream Available, and Select Audio Stream Available
 
 1.0
-> Support Playlist Download
-> Support YouTube Music Download
-> Support YouTube Channel Download
-> Unlimited Video Downloader count
-> Custom Audio Selector (OPUS/M4A)
-> Custom Video Codec Selector (VP9/AV1/AVC)
-> Custom Resolution Selector (144p/240p to 8K)
+> Support Playlist Download, 
+> Support YouTube Music Download, 
+> Support YouTube Channel Download, 
+> Unlimited Video Downloader count, 
+> Custom Audio Selector (OPUS/M4A), 
+> Custom Video Codec Selector (VP9/AV1/AVC), 
+> Custom Resolution Selector (144p/240p to 8K), 
